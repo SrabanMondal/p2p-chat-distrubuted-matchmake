@@ -95,6 +95,6 @@ Use responsibly. Not intended for unlawful purposes.
 
 ## 📝 License
 
-MIT --- do whatever you want, just be responsible.
+GNU --- do whatever you want, just be responsible.
 
 Built with ❤️ in Go + libp2p.
