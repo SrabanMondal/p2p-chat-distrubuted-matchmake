@@ -14,7 +14,7 @@ import (
 
 type PeerState int32
 
-const MatchProtoID = "/match/1.0.0/chat-public-101"
+const MatchProtoID = "/match/1.0.0/chat-public-111"
 
 const (
 	StateIdle PeerState = iota
